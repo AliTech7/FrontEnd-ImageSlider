@@ -1,5 +1,5 @@
 import "./App.css";
-import ImageSlider from ".";
+import ImageSlider from "./ImageSlider";
 
 function App() {
   return (
