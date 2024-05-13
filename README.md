@@ -1,3 +1,3 @@
-ImageSlider!
+ImageSlider!!
 
 from API
